@@ -1,0 +1,12 @@
+<svg id="icon-cursor" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="17" viewBox="0 0 13 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17218" data-name="Rectangle 17218" width="13" height="17" transform="translate(2.929)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(-2.929)" clip-path="url(#clip-path)">
+    <g id="Group_3487" data-name="Group 3487" transform="translate(-129.529 -342.992) rotate(13)">
+      <path id="icon-cursor-2" data-name="icon-cursor" d="M13,4.149,0,0,3.255,14.1,6.129,9.083,10.9,13.968l2.064-2.111L8.193,6.972Z" transform="translate(206.474 304.429)" fill="#3b3a4d"/>
+    </g>
+  </g>
+</svg>
